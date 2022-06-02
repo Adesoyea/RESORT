@@ -1,6 +1,6 @@
 .you{
     width: 500px;
-    height: 300px;
+    height: 400px;
 }
 .me{
     background-color: aqua;
@@ -11,4 +11,8 @@
 }
 .go{
     color: brown;
+}
+.we{
+    width: 500px;
+    height: 400px;
 }
