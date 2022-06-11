@@ -52,14 +52,30 @@
 }
 .u{
     width: 600px;
-    width: 500px;
+    height: 500px;
 }
 .l{
     width: 600px;
-    width: 500px;
+    height: 500px;
 }
 .O{
     text-align: center;
     color: red;
+}
+.k{
+    text-align: center;
+    color: blue;
+}
+.s{
+    width: 500px;
+    height: 400px;
+}
+.q{
+    text-align: center;
+    color: blue;
+}
+.x{
+    width: 500px;
+    height: 400px;
 }
     
